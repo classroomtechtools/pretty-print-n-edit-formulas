@@ -1,6 +1,6 @@
 # Pretty Print-n-Edit Formulas
 
-Grok your complex gsheet formulas with ease.
+Grok your complex gsheet formulas with ease. A google workspaces sheets add-on.
 
 ## Links
 
